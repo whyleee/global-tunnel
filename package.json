@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "lodash": "1.3.1",
-    "tunnel": "0.0.2"
+    "tunnel": "https://github.com/whyleee/node-tunnel/tarball/node-0.12-fix"
   },
   "devDependencies": {
     "mocha": "1.16.2",
